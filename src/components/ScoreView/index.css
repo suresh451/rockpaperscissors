@@ -1,0 +1,13 @@
+.main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    background-color: #223a5f;
+    color: white;
+    align-items: center;
+}
+.para {
+    font-family: "Roboto";
+}
